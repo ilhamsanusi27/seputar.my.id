@@ -1,0 +1,23 @@
+{			  
+			"name": "SEPUTAR.MY.ID",
+			"short_name": "SEPUTAR.MY.ID",
+			"description": "Berita Berkualitas",
+			"icons": [
+			    {
+			      "src": "https://1.bp.blogspot.com/-rx8oNk-vW88/YNv6RjujsrI/AAAAAAAACbM/Wltq-Oz9NtIo8B3rn6lCd38QRe9GChh2gCLcBGAsYHQ/s192/1624857893959.png",
+			      "sizes": "192x192",
+			      "type": "image\/png"
+			    },
+			    {
+			      "src": "https://1.bp.blogspot.com/-rx8oNk-vW88/YNv6RjujsrI/AAAAAAAACbM/Wltq-Oz9NtIo8B3rn6lCd38QRe9GChh2gCLcBGAsYHQ/s512/1624857893959.png",
+			      "sizes": "512x512",
+			      "type": "image\/png"
+			    }
+			],
+			"background_color": "#da532c",
+			"theme_color": "#da532c",
+			"display": "standalone",
+			"orientation": "portrait",
+			"start_url": "https://www.seputar.my.id",
+			"scope": "https://www.seputar.my.id"
+		}
